@@ -100,7 +100,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 | `extra-rows`, each further 100 detail rows on one term past the first 170 | $0.0035 | $0.003325 | $0.00315 | $0.002975 |
 | `apify-actor-start`, per run start | $0.002 | $0.002 | $0.002 | $0.002 |
 
-A term with no data, a term Google refused, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
+A term with no data, a term Google refused, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
 ## Full actor documentation
 
