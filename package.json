@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-google-trends-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Google Trends Scraper. Interest over time, regions, metros, and related queries per search term, with up to 5 terms compared. No Google login or key. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
